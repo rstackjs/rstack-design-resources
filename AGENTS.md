@@ -40,6 +40,3 @@ When in doubt, grep the sibling packages (`rspack/`, `rsbuild/`) for precedent b
 - Commit message convention from recent history: `chore(<pkg>): <imperative>` (e.g. `chore(rstest): add v0.10.0 banner`). Use `feat(<pkg>):` only for genuinely new asset families.
 - The repo has no CI checks beyond GitHub's defaults — review is human and visual.
 
-## License
-
-All assets are CC BY-NC-SA 4.0 (`CC-BY-NC-SA-4.0.md`). Non-commercial, share-alike, attribution required.
