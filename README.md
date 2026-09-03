@@ -2,6 +2,11 @@
 
 Design resources for Rstack, including Rspack, Rsbuild, Rspress, Rsdoctor, Rslib and Rstest.
 
+## Rstack
+
+- [Rstack logo variants](./rstack/logos)
+- see [rstack folder](./rstack) for more.
+
 ## Rspack
 
 - [rspack-logo.svg](./rspack/rspack-logo.svg)
